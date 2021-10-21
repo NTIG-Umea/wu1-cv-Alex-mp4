@@ -1,5 +1,5 @@
 # Framöver
-* Fixa float (viktigt!)
+* Fixa float (viktigt!) (convertera till flex perhaps)
 * Anpassa så allt blir uniformt med varandra (rem förmodligen)
 
 # Planering
