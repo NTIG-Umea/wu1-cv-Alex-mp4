@@ -1,10 +1,19 @@
+# Framöver
+* Fixa float (viktigt!)
+* Anpassa så allt blir uniformt med varandra (rem förmodligen)
+
 # Planering
-Början https://www.figma.com/file/cWCGj4dDVHsFbvbJFHCJ5E/Handsome-Jack?node-id=0%3A1
+Början 
 * Komponenter, planera vilka delar din sida består av.
+Stor bild, logotyper på sidan, mindre intressant information under bilden, mer intressant information på sidan, en embed till application letter under intressanta informationen
 * Struktur, vilka strukturella element använder sidan.
+header, många divar, embed
 * Design
+https://www.figma.com/file/cWCGj4dDVHsFbvbJFHCJ5E/Handsome-Jack?node-id=0%3A1
 * Färger.
+Gul, samt lite blå
 * Typsnitt, serif eller sans serif. Font.
+Hårda kanter för rubriker och sådant, obestämt för mindre text
 * Visuella element (vad får din sida att stå ut).
 * Din logotyp (från digitalt skapande).
 * Minst en bild (redigerad för att passa arbetet, tänk på copyright). Planera för den.
