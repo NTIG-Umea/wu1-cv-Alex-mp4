@@ -1,6 +1,9 @@
 # Framöver
-* Fixa float (viktigt!) (convertera till flex perhaps)
 * Anpassa så allt blir uniformt med varandra (rem förmodligen)
+* Importera svg i flex systemet
+* likadan padding på allt (mellan höger och vänster samt mellan varandra på samma kolumn)
+* gör allting snyggt (fonter, listor, osv)
+
 
 # Planering
 Början 

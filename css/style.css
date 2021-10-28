@@ -1,36 +1,41 @@
 body {
+    background-image: url("HPNfärgfinal.svg");
     background-color: #FFFAEC
 }
 
-.container { 
-    max-width: 17.188rem;
-    width: 100%;
+main {
+    display: flex;
+    max-width: 40rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    max-width: 100%;
+    width: 18rem;
     padding-right: 1rem;
     padding-left: 1rem;
     margin-right: auto;
     margin-left: auto;
-    background-color: #F3C933;
+    border: 5px solid #F7E8BC;
+}
+
+.container2 {
+    max-width: 100%;
+    width: 18rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F8CE56;
     border: 5px solid #DFB12D;
 }
 
-a {
-    color: #4B9DFD;
-}
-
-.column {
-    float: left;
-    width: 50%;
-    padding: 5px;
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
 header {
-    background: #F3C933;
+    background: #F8CE56;
     height: 60px;
 }
 
@@ -43,10 +48,9 @@ html, body {
 h1 {
     margin: 0;
     padding-top: 1rem;
+    padding-left: 20rem;
 }
 
-.container2 {
-    border: 5px solid #F7E8BC;
-    max-width: 17.188rem;
-    width: 100%;
+a {
+    color: #4B9DFD;
 }
