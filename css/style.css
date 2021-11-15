@@ -1,8 +1,8 @@
 body {
-    background-image: url("../images/HPNfärgfinal1.svg"), url("../images/HPNfärgfinal2.svg");
+    background-image: url("../images/HPNfärgfinal1.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg");
     background-size: 15rem;
-    background-repeat: no-repeat, no-repeat;
-    background-position: 0 top, 64rem bottom;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: 0 10%, 64rem 10%, 0 50%, 64rem 50%, 0 90%, 64rem 90%;
     background-color: #FFFAEC;
 }
 
@@ -10,7 +10,7 @@ main {
     display: flex;
     max-width: 40rem;
     padding-right: 1rem;
-    padding-left: 1rem;
+    padding-left: 0rem;
     padding-top: 1rem;
     margin-right: auto;
     margin-left: auto;
@@ -36,7 +36,7 @@ main {
     margin-left: auto;
     background-color: #F8CE56;
     border: 5px solid #DFB12D;
-    /*background-image: linear-gradient(#F8CE56 70%, lightblue);*/
+    background-image: linear-gradient(220deg,#F8CE56 60%, #4B9DFD);
 }
 
 .container3 {
@@ -58,7 +58,7 @@ html, body {
 h1 {
     margin: 0;
     padding-top: 1rem;
-    padding-left: 20rem;
+    padding-left: 19.5rem;
     font-family: 'Major Mono Display', monospace;
 }
 
@@ -68,4 +68,9 @@ h2 {
 
 a {
     color: #4B9DFD;
+}
+
+li {
+    list-style-type: square;
+    padding-bottom: 1rem;
 }

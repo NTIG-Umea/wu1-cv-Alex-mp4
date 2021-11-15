@@ -1,6 +1,5 @@
 # Framöver
-* lägg svg på rätt ställe
-* gör allting snyggt (fonter, listor, osv)
+* KLAR
 
 
 # Planering
