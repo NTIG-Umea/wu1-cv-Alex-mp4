@@ -1,5 +1,7 @@
+@use "reset";
+
 body {
-    background-image: url("../images/HPNfärgfinal1.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg"), url("../images/HPNfärgfinal2.svg");
+    background-image: url("../src/images/HPNfärgfinal1.svg"), url("../src/images/HPNfärgfinal2.svg"), url("../src/images/HPNfärgfinal2.svg"), url("../src/images/HPNfärgfinal2.svg"), url("../src/images/HPNfärgfinal2.svg"), url("../src/images/HPNfärgfinal2.svg");
     background-size: 15rem;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
     background-position: 0 10%, 64rem 10%, 0 50%, 64rem 50%, 0 90%, 64rem 90%;
@@ -73,4 +75,8 @@ a {
 li {
     list-style-type: square;
     padding-bottom: 1rem;
+}
+
+.display {
+    display: flex;
 }
