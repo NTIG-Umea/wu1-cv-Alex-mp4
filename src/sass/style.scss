@@ -78,5 +78,23 @@ li {
 }
 
 .display {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(6, 17%);
+    //display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.handsomeimg {
+    border: 5px solid #DFB12D; 
+    margin-bottom: 11px;
+    img {
+        width: 300px;
+        height: 280px;
+    }
+}
+
+.hpn {
+    background-image: url(../images/background.svg);
 }
