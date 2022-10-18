@@ -88,6 +88,8 @@ li {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
 }
 
 .handsomeimg {
