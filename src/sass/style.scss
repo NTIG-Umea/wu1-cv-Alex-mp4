@@ -27,6 +27,10 @@ main {
     margin-right: auto;
     margin-left: auto;
     border: 5px solid #F7E8BC;
+    /*grid-column-start: 2;
+    grid-column-end: five;
+    grid-row-start: row1-start;
+    grid-row-end: 3;*/
 }
 
 .container2 {
@@ -52,6 +56,8 @@ header {
 }
 
 html, body {
+    /*display: grid;
+    grid-template-columns: repeat(5, 1fr);*/
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
@@ -78,9 +84,7 @@ li {
 }
 
 .display {
-    display: grid;
-    grid-template-columns: repeat(6, 17%);
-    //display: flex;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
