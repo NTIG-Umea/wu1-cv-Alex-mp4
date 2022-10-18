@@ -18,7 +18,7 @@
 <main>
         <div>
         <div style="padding-right: 1rem; padding-bottom: 1rem;">
-            <img src="images/handsome.jpg" alt="Handsome" width="320" height="300" style="border: 5px solid #DFB12D; margin-bottom: 11px;">
+            <img src="/images/handsome.jpg" alt="Handsome" width="320" height="300" style="border: 5px solid #DFB12D; margin-bottom: 11px;">
             
             <div class="container2">
             <div>
